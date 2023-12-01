@@ -1,0 +1,74 @@
+/*.area {*/
+/*    width: 100%;*/
+/*    max-width: 660px;*/
+/*    position: relative;*/
+/*}*/
+
+/*.area .area-text {*/
+/*    resize: none;*/
+/*    width: 100%;*/
+/*    max-width: 660px;*/
+/*    min-height: 200px;*/
+/*    min-width: 100%;*/
+/*    border-radius: 16px;*/
+/*    border: 1px solid #eee;*/
+/*    outline: none;*/
+/*    padding: 20px 30px;*/
+/*    margin-bottom: 25px;*/
+/*}*/
+
+/*.area .area-text:focus {*/
+/*    border: 1px solid #0068e4;*/
+/*}*/
+
+/*.area .area-download {*/
+/*    position: absolute;*/
+/*    top: 20px;*/
+/*    left: 30px;*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    font-stretch: normal;*/
+/*    font-style: normal;*/
+/*    line-height: 1.57;*/
+/*    letter-spacing: -.05px;*/
+/*    color: black;*/
+/*}*/
+/*.area .area-download .placeholder {*/
+/*    color: #a0a1a4;*/
+/*}*/
+
+/*.area .area-download label {*/
+/*    color: #0068e4;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.area .area-download label:hover {*/
+/*    color: #252e47;*/
+/*}*/
+
+/*textarea {*/
+/*    overflow: auto;*/
+/*}*/
+
+/*.area-input {*/
+/*    display: none;*/
+/*}*/
+
+/*.area-label {*/
+/*    color: #fff;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.area .char-count {*/
+/*    position: absolute;*/
+/*    top: -20px;*/
+/*    right: 30px;*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    font-stretch: normal;*/
+/*    font-style: normal;*/
+/*    line-height: 1.57;*/
+/*    letter-spacing: -.05px;*/
+/*    color: #a0a1a4*/
+/*}*/
+

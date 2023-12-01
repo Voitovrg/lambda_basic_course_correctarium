@@ -1,0 +1,108 @@
+.clip-board {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.clip-board fieldset {
+    display: flex;
+
+}
+
+.clip-board .text_field-email {
+    width: 345px;
+    height: 61px;
+    padding: 0;
+    border-radius: 8px;
+    border: solid 1px #eeeeee;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: -.05px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.clip-board .text_field-email:focus {
+    border: 1px solid #0068e4;
+}
+
+.clip-board input {
+    width: 315px;
+    height: 60px;
+    background: transparent;
+    line-height: 22px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: -.05px;
+    padding-left: 20px;
+}
+
+.clip-board input::placeholder {
+    color: #a0a1a4;
+}
+
+.clip-board .text_field-name {
+    width: 345px;
+    height: 61px;
+    padding: 0;
+    border-radius: 8px;
+    border: solid 1px #eeeeee;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: -.05px;
+    margin-top: 10px;
+
+}
+
+.clip-board .text_field-name:focus {
+    border: 1px solid #0068e4;
+}
+
+.clip-board .text_field-comment {
+    width: 345px;
+    height: 61px;
+    padding: 0;
+    border-radius: 8px;
+    border: solid 1px #eeeeee;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: -.05px;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+.clip-board .text_field-comment:focus {
+    border: 1px solid #0068e4;
+}
+
+.clip-board .selector-false-language {
+    width: 345px;
+    height: 61px;
+    padding: 0;
+    border-radius: 8px;
+    border: solid 1px #eeeeee;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: -.05px;
+    margin-top: 5px;
+}
+

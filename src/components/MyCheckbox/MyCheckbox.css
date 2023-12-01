@@ -1,0 +1,101 @@
+/*fieldset {*/
+/*    margin: 0 0 30px;*/
+/*    border: none;*/
+/*}*/
+
+/*.button-checkbox {*/
+/*    width: 345px;*/
+/*    height: 61px;*/
+/*    overflow: visible;*/
+/*    padding: 0;*/
+/*    border-radius: 8px;*/
+/*    border: solid 1px #eeeeee;*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    font-stretch: normal;*/
+/*    font-style: normal;*/
+/*    line-height: 1.57;*/
+/*    letter-spacing: -.05px;*/
+/*    background: transparent;*/
+/*    margin-top: 7px;*/
+/*}*/
+
+/*.custom-button {*/
+/*    display: flex;*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    border: 8px;*/
+/*    background: transparent;*/
+/*    color: #a0a1a4;*/
+/*    top: -8px;*/
+/*}*/
+
+/*.custom-button label {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    padding: 18px 20px;*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    font-stretch: normal;*/
+/*    font-style: normal;*/
+/*    line-height: 1.57;*/
+/*    letter-spacing: -.05px;*/
+/*    display: flex;*/
+/*    margin-top: -0.5px;*/
+/*    cursor: pointer;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.custom-button img {*/
+/*    width: 8px;*/
+/*    height: 8px;*/
+/*    margin: auto 0 auto auto;*/
+/*}*/
+
+/*.custom-button.checked {*/
+/*    outline: 1px solid #0068e4;*/
+/*    border-radius: 8px;*/
+/*}*/
+
+/*.custom-button.checked img {*/
+/*    transform: rotate(180deg);*/
+/*}*/
+
+/*.hidden-list {*/
+/*    width: 345px;*/
+/*    padding: 12px 0;*/
+/*    position: absolute;*/
+/*    flex-direction: column;*/
+/*    display: none;*/
+/*    overflow: visible;*/
+/*    z-index: 2;*/
+/*    background: #FFF;*/
+/*    border-radius: 8px;*/
+/*    line-height: 2.29;*/
+/*    box-shadow: 0 15px 66px #0000000a;*/
+/*    border: solid 1px #eeeeee;*/
+/*    margin-top: 8px;*/
+/*}*/
+
+/*.hidden-list.opened {*/
+/*    display: block;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.hidden-list .position-list {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*}*/
+
+/*.hidden-list .position-list label {*/
+/*    padding: 0 20px;*/
+/*    cursor: pointer;*/
+/*}*/
+/*.hidden-list .position-list label:hover {*/
+/*    background: rgba(160, 161, 164, 0.22);*/
+/*}*/
+
+/*.color {*/
+/*    color: black;*/
+/*}*/
+
