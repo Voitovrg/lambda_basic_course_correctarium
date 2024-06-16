@@ -464,7 +464,7 @@ function App() {
                     <div className='submit'>
                         <div className='submit-content'>
                             <div className='content-price'>
-                                <div className='number'>{cost}</div>
+                                <div className='number'>{cost.toLocaleString('ru-RU')}</div>
                                 <div className='currency'>грн</div>
                             </div>
                             <div className='time'>{cost !== 0 ? 'Кінцевий термін: ':''}{time}</div>

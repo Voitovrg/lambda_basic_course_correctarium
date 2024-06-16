@@ -114,9 +114,9 @@ button {
     outline: 1px solid #0068e4;
 }
 
-.custom-button:hover {
-    outline: 1px solid #0068e4;
-}
+/*.custom-button:hover {*/
+/*    outline: 1px solid #0068e4;*/
+/*}*/
 
 .custom-button.checked img {
     transform: rotate(180deg);
@@ -205,14 +205,16 @@ legend.checked {
     outline: none;
     padding: 20px 30px;
     margin-bottom: 25px;
+    color: #454c5d;
+    font-size: 15px;
 }
 
 .area .area-text:focus {
     border: 1px solid #0068e4;
 }
-.area .area-text:hover {
-    border: 1px solid #0068e4;
-}
+/*.area .area-text:hover {*/
+/*    border: 1px solid #0068e4;*/
+/*}*/
 
 .area .area-download {
     position: absolute;
@@ -236,7 +238,7 @@ legend.checked {
 }
 
 .area .area-download label:hover {
-    color: #252e47;
+    color: red;
 }
 
 textarea {
@@ -324,13 +326,14 @@ input::placeholder {
     color: #a0a1a4
 }
 
-.text_field:hover {
+.text_field:focus-within {
     border: 1px solid #0068e4;
     cursor: pointer;
 }
 
 .email:focus-within legend {
     color: #0068e4;
+
 }
 .name:focus-within legend {
     color: #0068e4;
@@ -476,7 +479,7 @@ input::placeholder {
 }
 
 .footer p, .footer a {
-    color: rgba(69, 76, 93, 0.7);
+    color: #454c5d;
     margin-top: 4px;
 }
 a {
